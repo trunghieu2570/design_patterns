@@ -1,4 +1,4 @@
-package com.tthieu.design_patterns;
+package com.tthieu.design_patterns.adapter;
 
 public class Point {
     private final int x;

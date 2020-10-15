@@ -1,7 +1,5 @@
 package com.tthieu.design_patterns.builder;
 
-import com.tthieu.design_patterns.Color;
-
 public class GUI {
     private final WindowBuilder builder;
     public GUI(WindowBuilder builder) {

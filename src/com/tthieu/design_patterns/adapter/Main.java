@@ -1,7 +1,5 @@
 package com.tthieu.design_patterns.adapter;
 
-import com.tthieu.design_patterns.Point;
-
 public class Main {
 
     public static void main(String[] args) {

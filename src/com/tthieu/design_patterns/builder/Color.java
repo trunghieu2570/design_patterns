@@ -1,4 +1,4 @@
-package com.tthieu.design_patterns;
+package com.tthieu.design_patterns.builder;
 
 public enum Color {
     BLACK,

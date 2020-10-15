@@ -1,7 +1,5 @@
 package com.tthieu.design_patterns.builder;
 
-import com.tthieu.design_patterns.Color;
-
 public class NoFrameWindowBuilder implements WindowBuilder {
     private final NoFrameWindow result;
 

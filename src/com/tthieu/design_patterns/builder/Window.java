@@ -1,7 +1,5 @@
 package com.tthieu.design_patterns.builder;
 
-import com.tthieu.design_patterns.Color;
-
 public abstract class Window {
     private int xPos;
     private int yPos;
